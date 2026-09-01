@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://largemodel.d-robotics.cc/sitemap.xml

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>D-Robotics Large Model Team</title><link>https://largemodel.d-robotics.cc/</link><description>Recent content on D-Robotics Large Model Team</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://largemodel.d-robotics.cc/index.xml" rel="self" type="application/rss+xml"/><item><title>Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI</title><link>https://largemodel.d-robotics.cc/blog/uranus/</link><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><guid>https://largemodel.d-robotics.cc/blog/uranus/</guid><description>&lt;p>&lt;strong>Background: Why a learned simulator&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>&amp;ldquo;What I cannot create, I do not understand.&amp;rdquo;&lt;/em>
+— Richard Feynman&lt;/p>&lt;/blockquote>
+&lt;p>To act intelligently, a robot must first &lt;em>imagine&lt;/em> the consequences of its actions — yet real interaction is costly, slow, and impossible to reproduce, while traditional simulators (Isaac Sim, MuJoCo) demand hand-authored assets and physics and still suffer a sim-to-real gap. Uranus closes this gap with a &lt;strong>data-driven world model&lt;/strong>: feed it observations, camera calibrations, joint states, and a robot description file, and it autoregressively generates multi-view video conditioned on actions — simulation learned from data, not hand-built.&lt;/p></description></item><item><title>About</title><link>https://largemodel.d-robotics.cc/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://largemodel.d-robotics.cc/about/</guid><description>&lt;p>We are the &lt;strong>Large Model Team&lt;/strong> at D-Robotics, an AI research and engineering team building world models and scalable systems for intelligence in the physical world.&lt;/p>
+&lt;p>Our work connects generative modeling, robotics, and systems because physical intelligence depends on all three.&lt;/p>
+&lt;h2 id="what-we-do">What we do&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>World Models&lt;/strong> — predictive and controllable representations of the physical world.&lt;/li>
+&lt;li>&lt;strong>Generative Video&lt;/strong> — temporally coherent visual futures grounded in geometry and action.&lt;/li>
+&lt;li>&lt;strong>Robot Learning&lt;/strong> — learning and evaluation across tasks, scenes, and embodiments.&lt;/li>
+&lt;li>&lt;strong>AI Infrastructure&lt;/strong> — data, training, inference, and serving systems built to scale.&lt;/li>
+&lt;/ul>
+&lt;h2 id="connect">Connect&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/D-Robotics-AI-Lab">GitHub&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
