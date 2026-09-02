@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="119" viewBox="30 46 150 119" role="img" aria-labelledby="title desc">
+  <title id="title">Uranus logo</title>
+  <desc id="desc">Black rounded D-shaped mark with an orange-red circle on a white background.</desc>
+  <rect x="30" y="46" width="150" height="119" fill="#fff"/>
+  <path
+    fill="#000"
+    d="M60 46h59c34.2 0 61 26.1 61 59.5S153.2 165 119 165H60v-31.5h58.5c15.8 0 28-12.2 28-28s-12.2-28-28-28H60V46Z"
+  />
+  <circle cx="60" cy="105.5" r="29.5" fill="#ff3b00"/>
+</svg>
